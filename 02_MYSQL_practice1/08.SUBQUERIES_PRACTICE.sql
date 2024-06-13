@@ -16,13 +16,7 @@ where
         );
 
 -- EMPLOYEE 테이블에서 모든 직원의 평균 급여보다 높은 급여를 받는 직원의 이름과 급여를 조회하시오.
-select
-    emp_name,
-    salary
-from
-    employee
-where
-    salary > ;
+
 
 -- EMPLOYEE 테이블에서 각 부서의 평균 급여보다 높은 급여를 받는 직원의 이름, 부서명, 급여를 조회하시오.
 

@@ -9,5 +9,6 @@
     <file url="file://$PROJECT_DIR$/06_JOIN_PRACTICE.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/07_GROUPING_PRACTICE.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/08.SUBQUERIES_PRACTICE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/15_BUILDINFUNCTION_PRACTICE.sql" dialect="MySQL" />
   </component>
 </project>

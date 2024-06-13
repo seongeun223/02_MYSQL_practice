@@ -10,7 +10,7 @@ select
 from
     employee
 where
-    salary >= 5000000
+    salary >= 5000000;
 
 select
     *
